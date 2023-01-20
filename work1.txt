@@ -3,4 +3,8 @@ work1 write
 home
 office
 home2
+<<<<<<< HEAD
 office2
+=======
+home3
+>>>>>>> d479f32d20ca6e673e2f3a3e02e7d5f99a914915
